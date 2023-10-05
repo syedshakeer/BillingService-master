@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace BillingService
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class MenuModel
     {
         public int ItemID { get; set; }
